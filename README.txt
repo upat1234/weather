@@ -2,6 +2,8 @@ Project Name: ML Models for Weather Prediction
 
 Description: Provides a logistic regression model and feedforward neural network for weather prediction.
 
+ALL EXAMPLES OF RESULTS ARE DERIVED FROM 2014 TO 2024 DATA!!!
+
 Installation:
  - Install .py files
  - Install numpy
