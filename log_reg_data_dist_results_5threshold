@@ -1,0 +1,7 @@
+Training Accuracy Spread:         [0, 0, 1, 31, 660, 2468, 2045, 1644, 1002, 2305]
+Training Accuracy Average:        0.7157542339503742
+Validation Accuracy Spread:       [0, 0, 2, 29, 682, 2485, 2038, 1595, 1024, 2301]
+Validation Accuracy Average:      0.7150059078377313
+Best Validation Accuracy Spread:  [0, 0, 2, 29, 682, 2485, 2038, 1595, 1024, 2301]
+Best Validation Accuracy Average: 0.7181567546278063
+Averages are rough estimates based on the spreads.
