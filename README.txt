@@ -18,6 +18,7 @@ Usage:
  - (2) Run feedforward_neural_network.py and follow instructions to create log_reg models and results.
  - (2) Run fnn_data_dist.py and follow instructions to get data distributions.
  - (2) Run predictor_fnn.py to get weather predictions.
+(You can check isd-history.csv to find stations for location names)
 
 Dependencies: Python 3.11.9
 
